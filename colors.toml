@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Roadster at night. The background is the studio void itself.
+# Text stays Ano White. The accent is the taillight, gold is secondary.
+accent = "#ff3340"
+selection = "#2c1216"
+muted = "#8a8682"
+
+background = "#070708"
+dark_background = "#050506"
+darker_background = "#020203"
+lighter_background = "#141416"
+
+foreground = "#f4f1ec"
+dark_foreground = "#9a9692"
+light_foreground = "#e4e0da"
+bright_foreground = "#fbfbfb"
+
+hyprland_active_border = "rgba(ff3340ee) rgba(d4b56ecc) 45deg"
+hyprland_inactive_border = "rgba(1c1c1eaa)"
+active_border_color = "#ff3340"
+active_tab_background = "#2c1216"
+
+red = "#ff3340"
+yellow = "#d4b56e"
+orange = "#c4846a"
+green = "#6eae80"
+cyan = "#7eb8b8"
+blue = "#6d86a8"
+magenta = "#c47a90"
+brown = "#a18462"
+
+bright_red = "#ff5a63"
+bright_yellow = "#e7c48a"
+bright_green = "#8ec89a"
+bright_cyan = "#a8d8d6"
+bright_blue = "#93aed0"
+bright_magenta = "#dea8b8"
